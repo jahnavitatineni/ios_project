@@ -1,0 +1,302 @@
+[
+            {
+                "countryCode": "AD",
+                "countryName": "Andorra",
+                "currencyCode": "EUR",
+                "population": "84000",
+                "capital": "Andorra la Vella",
+                "continentName": "Europe",
+                "emoji":"🇦🇩",
+                "unicode":"U+1F1E6 U+1F1E9"
+             
+            },
+            {
+                "countryCode": "AE",
+                "countryName": "United Arab Emirates",
+                "currencyCode": "AED",
+                "population": "4975593",
+                "capital": "Abu Dhabi",
+                "continentName": "Asia",
+                "emoji":"🇦🇪",
+                "unicode":"U+1F1E6 U+1F1EA"
+                
+            },
+            {
+                "countryCode": "AF",
+                "countryName": "Afghanistan",
+                "currencyCode": "AFN",
+                "population": "29121286",
+                "capital": "Kabul",
+                "continentName": "Asia",
+                "emoji":"🇦🇫",
+                "unicode":"U+1F1E6 U+1F1EB"
+                
+            },
+            {
+                "countryCode": "AG",
+                "countryName": "Antigua and Barbuda",
+                "currencyCode": "XCD",
+                "population": "86754",
+                "capital": "St. John's",
+                "continentName": "North America",
+                "emoji":"🇦🇬",
+                "unicode":"U+1F1E6 U+1F1EC"
+                
+            },
+            {
+                "countryCode": "AI",
+                "countryName": "Anguilla",
+                "currencyCode": "XCD",
+                "population": "13254",
+                "capital": "The Valley",
+                "continentName": "North America"
+                "emoji":"🇦🇮",
+                "unicode":"U+1F1E6 U+1F1EE"
+                
+            },
+            {
+                "countryCode": "AL",
+                "countryName": "Albania",
+                "currencyCode": "ALL",
+                "population": "2986952",
+                "capital": "Tirana",
+                "continentName": "Europe",
+                "emoji":"🇦🇱",
+                "unicode":"U+1F1E6 U+1F1F1"
+                        
+                
+            },
+            {
+                "countryCode": "AM",
+                "countryName": "Armenia",
+                "currencyCode": "AMD",
+                "population": "2968000",
+                "capital": "Yerevan",
+                "continentName": "Asia",
+                "emoji":"🇦🇲",
+                "unicode":"U+1F1E6 U+1F1F2"
+               
+            },
+            {
+                "countryCode": "AO",
+                "countryName": "Angola",
+                "currencyCode": "AOA",
+                "population": "13068161",
+                "capital": "Luanda",
+                "continentName": "Africa",
+                "emoji":"🇦🇴",
+                "unicode":"U+1F1E6 U+1F1F4"
+            },
+            {
+                "countryCode": "AQ",
+                "countryName": "Antarctica",
+                "currencyCode": "",
+                "population": "0",
+                "capital": "",
+                "continentName": "Antarctica",
+                "emoji":"🇦🇶",
+                "unicode":"U+1F1E6 U+1F1F6"
+                
+            },
+            {
+                "countryCode": "AR",
+                "countryName": "Argentina",
+                "currencyCode": "ARS",
+                "population": "41343201",
+                "capital": "Buenos Aires",
+                "continentName": "South America",
+                "emoji":"🇦🇷",
+                "unicode":"U+1F1E6 U+1F1F7"
+            },
+            {
+                "countryCode": "AS",
+                "countryName": "American Samoa",
+                "currencyCode": "USD",
+                "population": "57881",
+                "capital": "Pago Pago",
+                "continentName": "Oceania",
+                "emoji":"🇦🇸",
+                "unicode":"U+1F1E6 U+1F1F8"
+                
+            },
+            {
+                "countryCode": "AT",
+                "countryName": "Austria",
+                "currencyCode": "EUR",
+                "population": "8205000",
+                "capital": "Vienna",
+                "continentName": "Europe",
+                "emoji":"🇦🇹",
+                "unicode":"U+1F1E6 U+1F1F9"
+            },
+            {
+                "countryCode": "AU",
+                "countryName": "Australia",
+                "currencyCode": "AUD",
+                "population": "21515754",
+                "capital": "Canberra",
+                "continentName": "Oceania",
+                "emoji":"🇦🇺",
+                "unicode":"U+1F1E6 U+1F1FA"
+            },
+            {
+                "countryCode": "AW",
+                "countryName": "Aruba",
+                "currencyCode": "AWG",
+                "population": "71566",
+                "capital": "Oranjestad",
+                "continentName": "North America",
+                "emoji":"🇦🇼",
+                "unicode":"U+1F1E6 U+1F1FC"
+            },
+            {
+                "countryCode": "AX",
+                "countryName": "Åland",
+                "currencyCode": "EUR",
+                "population": "26711",
+                "capital": "Mariehamn",
+                "continentName": "Europe",
+                "emoji":"🇦🇽",
+                "unicode":"U+1F1E6 U+1F1FD"
+            },
+            {
+                "countryCode": "AZ",
+                "countryName": "Azerbaijan",
+                "currencyCode": "AZN",
+                "population": "8303512",
+                "capital": "Baku",
+                "continentName": "Asia",
+                "emoji":"🇦🇿",
+                 "unicode":"U+1F1E6 U+1F1FF"
+            },
+            {
+                "countryCode": "BA",
+                "countryName": "Bosnia and Herzegovina",
+                "currencyCode": "BAM",
+                "population": "4590000",
+                "capital": "Sarajevo",
+                "continentName": "Europe",
+                "emoji":"🇧🇦",
+                "unicode":"U+1F1E7 U+1F1E6"
+            },
+            {
+                "countryCode": "BB",
+                "countryName": "Barbados",
+                "currencyCode": "BBD",
+                "population": "285653",
+                "capital": "Bridgetown",
+                "continentName": "North America",
+                "emoji":"🇧🇧",
+                "unicode":"U+1F1E7 U+1F1E7"
+            },
+            {
+                "countryCode": "BD",
+                "countryName": "Bangladesh",
+                "currencyCode": "BDT",
+                "population": "156118464",
+                "capital": "Dhaka",
+                "continentName": "Asia",
+                "emoji":"🇧🇩",
+                "unicode":"U+1F1E7 U+1F1E9"
+            },
+            {
+                "countryCode": "BE",
+                "countryName": "Belgium",
+                "currencyCode": "EUR",
+                "population": "10403000",
+                "capital": "Brussels",
+                "continentName": "Europe",
+                "emoji":"🇧🇪",
+                "unicode":"U+1F1E7 U+1F1EA"
+            },
+            {
+                "countryCode": "BF",
+                "countryName": "Burkina Faso",
+                "currencyCode": "XOF",
+                "population": "16241811",
+                "capital": "Ouagadougou",
+                "continentName": "Africa",
+                "emoji":"🇧🇫",
+                "unicode":"U+1F1E7 U+1F1EB"
+            },
+            {
+                "countryCode": "BG",
+                "countryName": "Bulgaria",
+                "currencyCode": "BGN",
+                "population": "7148785",
+                "capital": "Sofia",
+                "continentName": "Europe",
+                "emoji":"🇧🇬",
+                "unicode":"U+1F1E7 U+1F1EC"
+            },
+            {
+                "countryCode": "BH",
+                "countryName": "Bahrain",
+                "currencyCode": "BHD",
+                "population": "738004",
+                "capital": "Manama",
+                "continentName": "Asia",
+                "emoji":"🇧🇭",
+                "unicode":"U+1F1E7 U+1F1ED"
+            },
+            {
+                "countryCode": "BI",
+                "countryName": "Burundi",
+                "currencyCode": "BIF",
+                "population": "9863117",
+                "capital": "Bujumbura",
+                "continentName": "Africa",
+                "emoji":"🇧🇮",
+                "unicode":"U+1F1E7 U+1F1EE"
+            },
+            {
+                "countryCode": "BJ",
+                "countryName": "Benin",
+                "currencyCode": "XOF",
+                "population": "9056010",
+                "capital": "Porto-Novo",
+                "continentName": "Africa",
+                "emoji":"🇧🇯",
+                "unicode":"U+1F1E7 U+1F1EF"
+            },
+            {
+                "countryCode": "BL",
+                "countryName": "Saint Barthélemy",
+                "currencyCode": "EUR",
+                "population": "8450",
+                "capital": "Gustavia",
+                "continentName": "North America",
+                "emoji":"🇧🇱",
+                "unicode":"U+1F1E7 U+1F1F1"
+            },
+            {
+                "countryCode": "BM",
+                "countryName": "Bermuda",
+                "currencyCode": "BMD",
+                "population": "65365",
+                "capital": "Hamilton",
+                "continentName": "North America",
+                "emoji":"🇧🇲",
+                "unicode":"U+1F1E7 U+1F1F2"
+            },
+            {
+                "countryCode": "BN",
+                "countryName": "Brunei",
+                "currencyCode": "BND",
+                "population": "395027",
+                "capital": "Bandar Seri Begawan",
+                "continentName": "Asia",
+                "emoji":"🇧🇳",
+                "unicode":"U+1F1E7 U+1F1F3"
+            },
+            {
+                "countryCode": "BO",
+                "countryName": "Bolivia",
+                "currencyCode": "BOB",
+                "population": "9947418",
+                "capital": "Sucre",
+                "continentName": "South America",
+                "emoji":"🇧🇴",
+                "unicode":"U+1F1E7 U+1F1F4"
+            }
+]
