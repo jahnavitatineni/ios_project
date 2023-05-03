@@ -1,0 +1,18 @@
+[
+	{
+		"countryCode": "AD",
+		"countryName": "Andorra",
+		"currencyCode": "EUR",
+		"population": "84000",
+		"capital": "Andorra la Vella",
+		"continentName": "Europe"
+	},
+	{
+		"countryCode": "AE",
+		"countryName": "United Arab Emirates",
+		"currencyCode": "AED",
+		"population": "4975593",
+		"capital": "Abu Dhabi",
+		"continentName": "Asia"
+	}
+]
