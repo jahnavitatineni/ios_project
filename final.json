@@ -7,7 +7,9 @@
                 "capital": "Andorra la Vella",
                 "continentName": "Europe",
                 "emoji":"🇦🇩",
+                "isFavorite": true,
                 "unicode":"U+1F1E6 U+1F1E9"
+             
              
             },
             {
@@ -18,6 +20,7 @@
                 "capital": "Abu Dhabi",
                 "continentName": "Asia",
                 "emoji":"🇦🇪",
+                "isFavorite": true,
                 "unicode":"U+1F1E6 U+1F1EA"
                 
             },
@@ -29,6 +32,7 @@
                 "capital": "Kabul",
                 "continentName": "Asia",
                 "emoji":"🇦🇫",
+                "isFavorite": false,
                 "unicode":"U+1F1E6 U+1F1EB"
                 
             },
@@ -40,6 +44,7 @@
                 "capital": "St. John's",
                 "continentName": "North America",
                 "emoji":"🇦🇬",
+                "isFavorite": false,
                 "unicode":"U+1F1E6 U+1F1EC"
                 
             },
@@ -51,6 +56,7 @@
                 "capital": "The Valley",
                 "continentName": "North America",
                 "emoji":"🇦🇮",
+                "isFavorite": false,
                 "unicode":"U+1F1E6 U+1F1EE"
                 
             },
@@ -62,6 +68,7 @@
                 "capital": "Tirana",
                 "continentName": "Europe",
                 "emoji":"🇦🇱",
+                "isFavorite": false,
                 "unicode":"U+1F1E6 U+1F1F1"
                         
                 
@@ -85,6 +92,7 @@
                 "capital": "Luanda",
                 "continentName": "Africa",
                 "emoji":"🇦🇴",
+                "isFavorite": false,
                 "unicode":"U+1F1E6 U+1F1F4"
             },
             {
@@ -95,6 +103,7 @@
                 "capital": "",
                 "continentName": "Antarctica",
                 "emoji":"🇦🇶",
+                "isFavorite": false,
                 "unicode":"U+1F1E6 U+1F1F6"
                 
             },
@@ -106,6 +115,7 @@
                 "capital": "Buenos Aires",
                 "continentName": "South America",
                 "emoji":"🇦🇷",
+                "isFavorite": false,
                 "unicode":"U+1F1E6 U+1F1F7"
             },
             {
@@ -116,6 +126,7 @@
                 "capital": "Pago Pago",
                 "continentName": "Oceania",
                 "emoji":"🇦🇸",
+                "isFavorite": false,
                 "unicode":"U+1F1E6 U+1F1F8"
                 
             },
@@ -127,6 +138,7 @@
                 "capital": "Vienna",
                 "continentName": "Europe",
                 "emoji":"🇦🇹",
+                "isFavorite": false,
                 "unicode":"U+1F1E6 U+1F1F9"
             },
             {
@@ -137,6 +149,7 @@
                 "capital": "Canberra",
                 "continentName": "Oceania",
                 "emoji":"🇦🇺",
+                "isFavorite": false,
                 "unicode":"U+1F1E6 U+1F1FA"
             },
             {
@@ -147,6 +160,7 @@
                 "capital": "Oranjestad",
                 "continentName": "North America",
                 "emoji":"🇦🇼",
+                "isFavorite": false,
                 "unicode":"U+1F1E6 U+1F1FC"
             },
             {
@@ -157,6 +171,7 @@
                 "capital": "Mariehamn",
                 "continentName": "Europe",
                 "emoji":"🇦🇽",
+                "isFavorite": false,
                 "unicode":"U+1F1E6 U+1F1FD"
             },
             {
@@ -167,6 +182,7 @@
                 "capital": "Baku",
                 "continentName": "Asia",
                 "emoji":"🇦🇿",
+                "isFavorite": false,
                  "unicode":"U+1F1E6 U+1F1FF"
             },
             {
@@ -177,6 +193,7 @@
                 "capital": "Sarajevo",
                 "continentName": "Europe",
                 "emoji":"🇧🇦",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1E6"
             },
             {
@@ -187,6 +204,7 @@
                 "capital": "Bridgetown",
                 "continentName": "North America",
                 "emoji":"🇧🇧",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1E7"
             },
             {
@@ -197,6 +215,7 @@
                 "capital": "Dhaka",
                 "continentName": "Asia",
                 "emoji":"🇧🇩",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1E9"
             },
             {
@@ -207,6 +226,7 @@
                 "capital": "Brussels",
                 "continentName": "Europe",
                 "emoji":"🇧🇪",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1EA"
             },
             {
@@ -217,6 +237,7 @@
                 "capital": "Ouagadougou",
                 "continentName": "Africa",
                 "emoji":"🇧🇫",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1EB"
             },
             {
@@ -227,6 +248,7 @@
                 "capital": "Sofia",
                 "continentName": "Europe",
                 "emoji":"🇧🇬",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1EC"
             },
             {
@@ -237,6 +259,7 @@
                 "capital": "Manama",
                 "continentName": "Asia",
                 "emoji":"🇧🇭",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1ED"
             },
             {
@@ -247,6 +270,7 @@
                 "capital": "Bujumbura",
                 "continentName": "Africa",
                 "emoji":"🇧🇮",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1EE"
             },
             {
@@ -257,6 +281,7 @@
                 "capital": "Porto-Novo",
                 "continentName": "Africa",
                 "emoji":"🇧🇯",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1EF"
             },
             {
@@ -267,6 +292,7 @@
                 "capital": "Gustavia",
                 "continentName": "North America",
                 "emoji":"🇧🇱",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1F1"
             },
             {
@@ -277,6 +303,7 @@
                 "capital": "Hamilton",
                 "continentName": "North America",
                 "emoji":"🇧🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1F2"
             },
             {
@@ -287,6 +314,7 @@
                 "capital": "Bandar Seri Begawan",
                 "continentName": "Asia",
                 "emoji":"🇧🇳",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1F3"
             },
             {
@@ -297,6 +325,7 @@
                 "capital": "Sucre",
                 "continentName": "South America",
                 "emoji":"🇧🇴",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1F4"
             },
             {
@@ -307,6 +336,7 @@
                 "capital": "Kralendijk",
                 "continentName": "North America",
                 "emoji":"🇧🇶",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1F6"
             },
             {
@@ -317,6 +347,7 @@
                 "capital": "Brasília",
                 "continentName": "South America",
                 "emoji":"🇧🇷",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1F7"
             },
             {
@@ -327,6 +358,7 @@
                 "capital": "Nassau",
                 "continentName": "North America",
                 "emoji":"🇧🇸",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1F8"
             },
             {
@@ -337,6 +369,7 @@
                 "capital": "Thimphu",
                 "continentName": "Asia",
                 "emoji":"🇧🇹",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1F9"
             },
             {
@@ -347,6 +380,7 @@
                 "capital": "",
                 "continentName": "Antarctica",
                 "emoji":"🇧🇻",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1FB"
             },
             {
@@ -357,6 +391,7 @@
                 "capital": "Gaborone",
                 "continentName": "Africa",
                 "emoji":"🇧🇼",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1FC"
             },
             {
@@ -367,6 +402,7 @@
                 "capital": "Minsk",
                 "continentName": "Europe",
                 "emoji":"🇧🇾",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1FE"
             },
             {
@@ -377,6 +413,7 @@
                 "capital": "Belmopan",
                 "continentName": "North America",
                 "emoji":"🇧🇿",
+                "isFavorite": false,
                 "unicode":"U+1F1E7 U+1F1FF"
             },
             {
@@ -387,6 +424,7 @@
                 "capital": "Ottawa",
                 "continentName": "North America",
                 "emoji":"🇨🇦",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1E6"
             },
             {
@@ -397,6 +435,7 @@
                 "capital": "West Island",
                 "continentName": "Asia",
                 "emoji":"🇨🇨",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1E8"
             },
             {
@@ -407,6 +446,7 @@
                 "capital": "Kinshasa",
                 "continentName": "Africa",
                 "emoji":"🇨🇩",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1E9"
             },
             {
@@ -417,6 +457,7 @@
                 "capital": "Bangui",
                 "continentName": "Africa",
                 "emoji":"🇨🇫",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1EB"
                         
             },
@@ -428,6 +469,7 @@
                 "capital": "Brazzaville",
                 "continentName": "Africa",
                 "emoji":"🇨🇬",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1EC"
             },
             {
@@ -438,6 +480,7 @@
                 "capital": "Bern",
                 "continentName": "Europe",
                 "emoji":"🇨🇭",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1ED"
             },
             {
@@ -448,6 +491,7 @@
                 "capital": "Yamoussoukro",
                 "continentName": "Africa",
                 "emoji":"🇨🇮",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1EE"
             },
             {
@@ -458,6 +502,7 @@
                 "capital": "Avarua",
                 "continentName": "Oceania",
                 "emoji":"🇨🇰",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1F0"
             },
             {
@@ -468,6 +513,7 @@
                 "capital": "Santiago",
                 "continentName": "South America",
                 "emoji":"🇨🇱",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1F1"
             },
             {
@@ -478,6 +524,7 @@
                 "capital": "Yaoundé",
                 "continentName": "Africa",
                 "emoji":"🇨🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1F2"
             },
             {
@@ -488,6 +535,7 @@
                 "capital": "Beijing",
                 "continentName": "Asia",
                 "emoji":"🇨🇳",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1F3"
             },
             {
@@ -498,6 +546,7 @@
                 "capital": "Bogotá",
                 "continentName": "South America",
                 "emoji":"🇨🇴",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1F4"
             },
             {
@@ -508,6 +557,7 @@
                 "capital": "San José",
                 "continentName": "North America",
                 "emoji":"🇨🇷",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1F7"
             },
             {
@@ -518,6 +568,7 @@
                 "capital": "Havana",
                 "continentName": "North America",
                 "emoji":"🇨🇺",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1FA"
             },
             {
@@ -528,6 +579,7 @@
                 "capital": "Praia",
                 "continentName": "Africa",
                 "emoji":"🇨🇻",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1FB"
             },
             {
@@ -538,6 +590,7 @@
                 "capital": "Willemstad",
                 "continentName": "North America",
                 "emoji":"🇨🇼",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1FC"
             },
             {
@@ -548,6 +601,7 @@
                 "capital": "Flying Fish Cove",
                 "continentName": "Asia",
                 "emoji":"🇨🇽",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1FD"
             },
             {
@@ -558,6 +612,7 @@
                 "capital": "Nicosia",
                 "continentName": "Europe",
                 "emoji":"🇨🇾",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1FE"
             },
             {
@@ -568,6 +623,7 @@
                 "capital": "Prague",
                 "continentName": "Europe",
                 "emoji":"🇨🇿",
+                "isFavorite": false,
                 "unicode":"U+1F1E8 U+1F1FF"
             },
             {
@@ -578,6 +634,7 @@
                 "capital": "Berlin",
                 "continentName": "Europe",
                 "emoji":"🇩🇪",
+                "isFavorite": false,
                 "unicode":"U+1F1E9 U+1F1EA"
             },
             {
@@ -588,6 +645,7 @@
                 "capital": "Djibouti",
                 "continentName": "Africa",
                 "emoji":"🇩🇯",
+                "isFavorite": false,
                 "unicode":"U+1F1E9 U+1F1EF"
             },
             {
@@ -598,6 +656,7 @@
                 "capital": "Copenhagen",
                 "continentName": "Europe",
                 "emoji":"🇩🇰",
+                "isFavorite": false,
                 "unicode":"U+1F1E9 U+1F1F0"
             },
             {
@@ -608,6 +667,7 @@
                 "capital": "Roseau",
                 "continentName": "North America",
                 "emoji":"🇩🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1E9 U+1F1F2"
             },
             {
@@ -618,6 +678,7 @@
                 "capital": "Santo Domingo",
                 "continentName": "North America",
                 "emoji":"🇩🇴",
+                "isFavorite": false,
                 "unicode":"U+1F1E9 U+1F1F4"
             },
             {
@@ -628,6 +689,7 @@
                 "capital": "Algiers",
                 "continentName": "Africa",
                 "emoji":"🇩🇿",
+                "isFavorite": false,
                 "unicode":"U+1F1E9 U+1F1FF"
             },
             {
@@ -638,6 +700,7 @@
                 "capital": "Quito",
                 "continentName": "South America",
                 "emoji":"🇪🇨",
+                "isFavorite": false,
                 "unicode":"U+1F1EA U+1F1E8"
             },
             {
@@ -648,6 +711,7 @@
                 "capital": "Tallinn",
                 "continentName": "Europe",
                 "emoji":"🇪🇪",
+                "isFavorite": false,
                 "unicode":"U+1F1EA U+1F1EA"
             },
             {
@@ -658,6 +722,7 @@
                 "capital": "Cairo",
                 "continentName": "Africa",
                 "emoji":"🇪🇬",
+                "isFavorite": false,
                 "unicode":"U+1F1EA U+1F1EC"
             },
             {
@@ -668,6 +733,7 @@
                 "capital": "Laâyoune / El Aaiún",
                 "continentName": "Africa",
                 "emoji":"🇪🇭",
+                "isFavorite": false,
                 "unicode":"U+1F1EA U+1F1ED"
             },
             {
@@ -678,6 +744,7 @@
                 "capital": "Asmara",
                 "continentName": "Africa",
                 "emoji":"🇪🇷",
+                "isFavorite": false,
                 "unicode":"U+1F1EA U+1F1F7"
             },
             {
@@ -688,6 +755,7 @@
                 "capital": "Madrid",
                 "continentName": "Europe",
                 "emoji":"🇪🇸",
+                "isFavorite": false,
                 "unicode":"U+1F1EA U+1F1F8"
             },
             {
@@ -698,6 +766,7 @@
                 "capital": "Addis Ababa",
                 "continentName": "Africa",
                 "emoji":"🇪🇹",
+                "isFavorite": false,
                 "unicode":"U+1F1EA U+1F1F9"
             },
             {
@@ -708,6 +777,7 @@
                 "capital": "Helsinki",
                 "continentName": "Europe",
                 "emoji":"🇫🇮",
+                "isFavorite": false,
                 "unicode":"U+1F1EB U+1F1EE"
             },
             {
@@ -718,6 +788,7 @@
                 "capital": "Suva",
                 "continentName": "Oceania",
                 "emoji":"🇫🇯",
+                "isFavorite": false,
                 "unicode":"U+1F1EB U+1F1EF"
             },
             {
@@ -728,6 +799,7 @@
                 "capital": "Stanley",
                 "continentName": "South America",
                 "emoji":"🇫🇰",
+                "isFavorite": false,
                 "unicode":"U+1F1EB U+1F1F0"
             },
             {
@@ -738,6 +810,7 @@
                 "capital": "Palikir",
                 "continentName": "Oceania",
                 "emoji":"🇫🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1EB U+1F1F2"
             },
             {
@@ -748,6 +821,7 @@
                 "capital": "Tórshavn",
                 "continentName": "Europe",
                 "emoji":"🇫🇴",
+                "isFavorite": false,
                 "unicode":"U+1F1EB U+1F1F4"
             },
             {
@@ -758,6 +832,7 @@
                 "capital": "Paris",
                 "continentName": "Europe",
                 "emoji":"🇫🇷",
+                "isFavorite": false,
                 "unicode":"U+1F1EB U+1F1F7"
             },
             {
@@ -768,6 +843,7 @@
                 "capital": "Libreville",
                 "continentName": "Africa",
                 "emoji":"🇬🇦",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1E6"
             },
             {
@@ -778,6 +854,7 @@
                 "capital": "London",
                 "continentName": "Europe",
                 "emoji":"🇬🇧",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1E7"
             },
             {
@@ -788,6 +865,7 @@
                 "capital": "St. George's",
                 "continentName": "North America",
                 "emoji":"🇬🇩",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1E9"
             },
             {
@@ -798,6 +876,7 @@
                 "capital": "Tbilisi",
                 "continentName": "Asia",
                 "emoji":"🇬🇪",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1EA"
             },
             {
@@ -808,6 +887,7 @@
                 "capital": "Cayenne",
                 "continentName": "South America",
                 "emoji":"🇬🇫",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1EB"
             },
             {
@@ -818,6 +898,7 @@
                 "capital": "St Peter Port",
                 "continentName": "Europe",
                 "emoji":"🇬🇬",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1EC"
             },
             {
@@ -828,6 +909,7 @@
                 "capital": "Accra",
                 "continentName": "Africa",
                 "emoji":"🇬🇭",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1ED"
             },
             {
@@ -838,6 +920,7 @@
                 "capital": "Gibraltar",
                 "continentName": "Europe",
                 "emoji":"🇬🇮",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1EE"
             },
             {
@@ -848,6 +931,7 @@
                 "capital": "Nuuk",
                 "continentName": "North America",
                 "emoji":"🇬🇱",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1F1"
             },
             {
@@ -858,6 +942,7 @@
                 "capital": "Bathurst",
                 "continentName": "Africa",
                 "emoji":"🇬🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1F2"
             },
             {
@@ -868,6 +953,7 @@
                 "capital": "Conakry",
                 "continentName": "Africa",
                 "emoji":"🇬🇳",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1F3"
             },
             {
@@ -878,6 +964,7 @@
                 "capital": "Basse-Terre",
                 "continentName": "North America",
                 "emoji":"🇬🇵",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1F5"
             },
             {
@@ -888,6 +975,7 @@
                 "capital": "Malabo",
                 "continentName": "Africa",
                 "emoji":"🇬🇶",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1F6"
             },
             {
@@ -898,6 +986,7 @@
                 "capital": "Athens",
                 "continentName": "Europe",
                 "emoji":"🇬🇷",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1F7"
             },
             {
@@ -908,6 +997,7 @@
                 "capital": "Grytviken",
                 "continentName": "Antarctica",
                 "emoji":"🇬🇸",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1F8"
             },
             {
@@ -918,6 +1008,7 @@
                 "capital": "Guatemala City",
                 "continentName": "North America",
                 "emoji":"🇬🇹",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1F9"
             },
             {
@@ -928,6 +1019,7 @@
                 "capital": "Hagåtña",
                 "continentName": "Oceania",
                 "emoji":"🇬🇺",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1FA"
             },
             {
@@ -938,6 +1030,7 @@
                 "capital": "Bissau",
                 "continentName": "Africa",
                 "emoji":"🇬🇼",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1FC"
             },
             {
@@ -948,6 +1041,7 @@
                 "capital": "Georgetown",
                 "continentName": "South America",
                 "emoji":"🇬🇾",
+                "isFavorite": false,
                 "unicode":"U+1F1EC U+1F1FE"
             },
             {
@@ -958,6 +1052,7 @@
                 "capital": "Hong Kong",
                 "continentName": "Asia",
                 "emoji":"🇭🇰",
+                "isFavorite": false,
                 "unicode":"U+1F1ED U+1F1F0"
             },
             {
@@ -968,6 +1063,7 @@
                 "capital": "",
                 "continentName": "Antarctica",
                 "emoji":"🇭🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1ED U+1F1F2"
             },
             {
@@ -978,6 +1074,7 @@
                 "capital": "Tegucigalpa",
                 "continentName": "North America",
                 "emoji":"🇭🇳",
+                "isFavorite": false,
                 "unicode":"U+1F1ED U+1F1F3"
             },
             {
@@ -988,6 +1085,7 @@
                 "capital": "Zagreb",
                 "continentName": "Europe",
                 "emoji":"🇭🇷",
+                "isFavorite": false,
                 "unicode":"U+1F1ED U+1F1F7"
             },
             {
@@ -998,6 +1096,7 @@
                 "capital": "Port-au-Prince",
                 "continentName": "North America",
                 "emoji":"🇭🇹",
+                "isFavorite": false,
                 "unicode":"U+1F1ED U+1F1F9"
             },
             {
@@ -1008,6 +1107,7 @@
                 "capital": "Budapest",
                 "continentName": "Europe",
                 "emoji":"🇭🇺",
+                "isFavorite": false,
                 "unicode":"U+1F1ED U+1F1FA"
             },
             {
@@ -1018,6 +1118,7 @@
                 "capital": "Jakarta",
                 "continentName": "Asia",
                 "emoji":"🇮🇩",
+                "isFavorite": false,
                 "unicode":"U+1F1EE U+1F1E9"
             },
             {
@@ -1028,6 +1129,7 @@
                 "capital": "Dublin",
                 "continentName": "Europe",
                 "emoji":"🇮🇪",
+                "isFavorite": false,
                 "unicode":"U+1F1EE U+1F1EA"
             },
             {
@@ -1038,6 +1140,7 @@
                 "capital": "",
                 "continentName": "Asia",
                 "emoji":"🇮🇱",
+                "isFavorite": false,
                 "unicode":"U+1F1EE U+1F1F1"
             },
             {
@@ -1048,6 +1151,7 @@
                 "capital": "Douglas",
                 "continentName": "Europe",
                 "emoji":"🇮🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1EE U+1F1F2"
             },
             {
@@ -1058,6 +1162,7 @@
                 "capital": "New Delhi",
                 "continentName": "Asia",
                 "emoji":"🇮🇳",
+                "isFavorite": false,
                 "unicode":"U+1F1EE U+1F1F3"
             },
             {
@@ -1068,6 +1173,7 @@
                 "capital": "",
                 "continentName": "Asia",
                 "emoji":"🇮🇴",
+                "isFavorite": false,
                 "unicode":"U+1F1EE U+1F1F4"
             },
             {
@@ -1078,6 +1184,7 @@
                 "capital": "Baghdad",
                 "continentName": "Asia",
                 "emoji":"🇮🇶",
+                "isFavorite": false,
                 "unicode":"U+1F1EE U+1F1F6"
             },
             {
@@ -1088,6 +1195,7 @@
                 "capital": "Tehran",
                 "continentName": "Asia",
                 "emoji":"🇮🇷",
+                "isFavorite": false,
                 "unicode":"U+1F1EE U+1F1F7"
             },
             {
@@ -1098,6 +1206,7 @@
                 "capital": "Reykjavik",
                 "continentName": "Europe",
                 "emoji":"🇮🇸",
+                "isFavorite": false,
                 "unicode":"U+1F1EE U+1F1F8"
             },
             {
@@ -1108,6 +1217,7 @@
                 "capital": "Rome",
                 "continentName": "Europe",
                 "emoji":"🇮🇹",
+                "isFavorite": false,
                 "unicode":"U+1F1EE U+1F1F9"
             },
             {
@@ -1118,6 +1228,7 @@
                 "capital": "Saint Helier",
                 "continentName": "Europe",
                 "emoji":"🇯🇪",
+                "isFavorite": false,
                 "unicode":"U+1F1EF U+1F1EA"
             },
             {
@@ -1128,6 +1239,7 @@
                 "capital": "Kingston",
                 "continentName": "North America",
                 "emoji":"🇯🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1EF U+1F1F2"
             },
             {
@@ -1138,6 +1250,7 @@
                 "capital": "Amman",
                 "continentName": "Asia",
                 "emoji":"🇯🇴",
+                "isFavorite": false,
                 "unicode":"U+1F1EF U+1F1F4"
             },
             {
@@ -1148,6 +1261,7 @@
                 "capital": "Tokyo",
                 "continentName": "Asia",
                 "emoji":"🇯🇵",
+                "isFavorite": false,
                 "unicode":"U+1F1EF U+1F1F5"
             },
             {
@@ -1158,6 +1272,7 @@
                 "capital": "Nairobi",
                 "continentName": "Africa",
                 "emoji":"🇰🇪",
+                "isFavorite": false,
                 "unicode":"U+1F1F0 U+1F1EA"
             },
             {
@@ -1168,6 +1283,7 @@
                 "capital": "Bishkek",
                 "continentName": "Asia",
                 "emoji":"🇰🇬",
+                "isFavorite": false,
                 "unicode":"U+1F1F0 U+1F1EC"
             },
             {
@@ -1178,6 +1294,7 @@
                 "capital": "Phnom Penh",
                 "continentName": "Asia",
                 "emoji":"🇰🇭",
+                "isFavorite": false,
                 "unicode":"U+1F1F0 U+1F1ED"
             },
             {
@@ -1188,6 +1305,7 @@
                 "capital": "Tarawa",
                 "continentName": "Oceania",
                 "emoji":"🇰🇮",
+                "isFavorite": false,
                 "unicode":"U+1F1F0 U+1F1EE"
             },
             {
@@ -1198,6 +1316,7 @@
                 "capital": "Moroni",
                 "continentName": "Africa",
                 "emoji":"🇰🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1F0 U+1F1F2"
             },
             {
@@ -1208,6 +1327,7 @@
                 "capital": "Basseterre",
                 "continentName": "North America",
                 "emoji":"🇰🇳",
+                "isFavorite": false,
                 "unicode":"U+1F1F0 U+1F1F3"
             },
             {
@@ -1218,6 +1338,7 @@
                 "capital": "Pyongyang",
                 "continentName": "Asia",
                 "emoji":"🇰🇵",
+                "isFavorite": false,
                 "unicode":"U+1F1F0 U+1F1F5"
             },
             {
@@ -1228,6 +1349,7 @@
                 "capital": "Seoul",
                 "continentName": "Asia",
                 "emoji":"🇰🇷",
+                "isFavorite": false,
                 "unicode":"U+1F1F0 U+1F1F7"
             },
             {
@@ -1238,6 +1360,7 @@
                 "capital": "Kuwait City",
                 "continentName": "Asia",
                 "emoji":"🇰🇼",
+                "isFavorite": false,
                 "unicode":"U+1F1F0 U+1F1FC"
             },
             {
@@ -1248,6 +1371,7 @@
                 "capital": "George Town",
                 "continentName": "North America",
                 "emoji":"🇰🇾",
+                "isFavorite": false,
                 "unicode":"U+1F1F0 U+1F1FE"
             },
             {
@@ -1258,6 +1382,7 @@
                 "capital": "Astana",
                 "continentName": "Asia",
                 "emoji":"🇰🇿",
+                "isFavorite": false,
                 "unicode":"U+1F1F0 U+1F1FF"
             },
             {
@@ -1268,6 +1393,7 @@
                 "capital": "Vientiane",
                 "continentName": "Asia",
                 "emoji":"🇱🇦",
+                "isFavorite": false,
                 "unicode":"U+1F1F1 U+1F1E6"
             },
             {
@@ -1278,6 +1404,7 @@
                 "capital": "Beirut",
                 "continentName": "Asia",
                 "emoji":"🇱🇧",
+                "isFavorite": false,
                 "unicode":"U+1F1F1 U+1F1E7"
             },
             {
@@ -1288,6 +1415,7 @@
                 "capital": "Castries",
                 "continentName": "North America",
                 "emoji":"🇱🇨",
+                "isFavorite": false,
                 "unicode":"U+1F1F1 U+1F1E8"
             },
             {
@@ -1298,6 +1426,7 @@
                 "capital": "Vaduz",
                 "continentName": "Europe",
                 "emoji":"🇱🇮",
+                "isFavorite": false,
                 "unicode":"U+1F1F1 U+1F1EE"
             },
             {
@@ -1308,6 +1437,7 @@
                 "capital": "Colombo",
                 "continentName": "Asia",
                 "emoji":"🇱🇰",
+                "isFavorite": false,
                 "unicode":"U+1F1F1 U+1F1F0"
             },
             {
@@ -1318,6 +1448,7 @@
                 "capital": "Monrovia",
                 "continentName": "Africa",
                 "emoji":"🇱🇷",
+                "isFavorite": false,
                 "unicode":"U+1F1F1 U+1F1F7"
             },
             {
@@ -1328,6 +1459,7 @@
                 "capital": "Maseru",
                 "continentName": "Africa",
                 "emoji":"🇱🇸",
+                "isFavorite": false,
                 "unicode":"U+1F1F1 U+1F1F8"
             },
             {
@@ -1338,6 +1470,7 @@
                 "capital": "Vilnius",
                 "continentName": "Europe",
                 "emoji":"🇱🇹",
+                "isFavorite": false,
                 "unicode":"U+1F1F1 U+1F1F9"
             },
             {
@@ -1348,6 +1481,7 @@
                 "capital": "Luxembourg",
                 "continentName": "Europe",
                 "emoji":"🇱🇺",
+                "isFavorite": false,
                 "unicode":"U+1F1F1 U+1F1FA"
             },
             {
@@ -1358,6 +1492,7 @@
                 "capital": "Riga",
                 "continentName": "Europe",
                 "emoji":"🇱🇻",
+                "isFavorite": false,
                 "unicode":"U+1F1F1 U+1F1FB"
             },
             {
@@ -1368,6 +1503,7 @@
                 "capital": "Tripoli",
                 "continentName": "Africa",
                 "emoji":"🇱🇾",
+                "isFavorite": false,
                 "unicode":"U+1F1F1 U+1F1FE"
             },
             {
@@ -1378,6 +1514,7 @@
                 "capital": "Rabat",
                 "continentName": "Africa",
                 "emoji":"🇲🇦",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1E6"
             },
             {
@@ -1388,6 +1525,7 @@
                 "capital": "Monaco",
                 "continentName": "Europe",
                 "emoji":"🇲🇨",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1E8"
             },
             {
@@ -1398,6 +1536,7 @@
                 "capital": "Chişinău",
                 "continentName": "Europe",
                 "emoji":"🇲🇩",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1E9"
             },
             {
@@ -1408,6 +1547,7 @@
                 "capital": "Podgorica",
                 "continentName": "Europe",
                 "emoji":"🇲🇪",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1EA"
             },
             {
@@ -1418,6 +1558,7 @@
                 "capital": "Marigot",
                 "continentName": "North America",
                 "emoji":"🇲🇫",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1EB"
             },
             {
@@ -1428,6 +1569,7 @@
                 "capital": "Antananarivo",
                 "continentName": "Africa",
                 "emoji":"🇲🇬",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1EC"
             },
             {
@@ -1438,6 +1580,7 @@
                 "capital": "Majuro",
                 "continentName": "Oceania",
                 "emoji":"🇲🇭",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1ED"
             },
             {
@@ -1448,6 +1591,7 @@
                 "capital": "Skopje",
                 "continentName": "Europe",
                 "emoji":"🇲🇰",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1F0"
             },
             {
@@ -1458,6 +1602,7 @@
                 "capital": "Bamako",
                 "continentName": "Africa",
                 "emoji":"🇲🇱",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1F1"
             },
             {
@@ -1468,6 +1613,7 @@
                 "capital": "Naypyitaw",
                 "continentName": "Asia",
                 "emoji":"🇲🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1F2"
             },
             {
@@ -1478,6 +1624,7 @@
                 "capital": "Ulan Bator",
                 "continentName": "Asia",
                 "emoji":"🇲🇳",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1F3"
             },
             {
@@ -1488,6 +1635,7 @@
                 "capital": "Macao",
                 "continentName": "Asia",
                 "emoji":"🇲🇴",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1F4"
             },
             {
@@ -1498,6 +1646,7 @@
                 "capital": "Saipan",
                 "continentName": "Oceania",
                 "emoji":"🇲🇵",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1F5"
             },
             {
@@ -1508,6 +1657,7 @@
                 "capital": "Fort-de-France",
                 "continentName": "North America",
                 "emoji":"🇲🇶",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1F6"
             },
             {
@@ -1518,6 +1668,7 @@
                 "capital": "Nouakchott",
                 "continentName": "Africa",
                 "emoji":"🇲🇷",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1F7"
             },
             {
@@ -1528,6 +1679,7 @@
                 "capital": "Plymouth",
                 "continentName": "North America",
                 "emoji":"🇲🇸",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1F8"
             },
             {
@@ -1538,6 +1690,7 @@
                 "capital": "Valletta",
                 "continentName": "Europe",
                 "emoji":"🇲🇹",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1F9"
             },
             {
@@ -1548,6 +1701,7 @@
                 "capital": "Port Louis",
                 "continentName": "Africa",
                 "emoji":"🇲🇺",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1FA"
             },
             {
@@ -1558,6 +1712,7 @@
                 "capital": "Malé",
                 "continentName": "Asia",
                 "emoji":"🇲🇻",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1FB"
             },
             {
@@ -1568,6 +1723,7 @@
                 "capital": "Lilongwe",
                 "continentName": "Africa",
                 "emoji":"🇲🇼",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1FC"
             },
             {
@@ -1578,6 +1734,7 @@
                 "capital": "Mexico City",
                 "continentName": "North America",
                 "emoji":"🇲🇽",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1FD"
             },
             {
@@ -1588,6 +1745,7 @@
                 "capital": "Kuala Lumpur",
                 "continentName": "Asia",
                 "emoji":"🇲🇾",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1FE"
             },
             {
@@ -1598,6 +1756,7 @@
                 "capital": "Maputo",
                 "continentName": "Africa",
                 "emoji":"🇲🇿",
+                "isFavorite": false,
                 "unicode":"U+1F1F2 U+1F1FF"
             },
             {
@@ -1608,6 +1767,7 @@
                 "capital": "Windhoek",
                 "continentName": "Africa",
                 "emoji":"🇳🇦",
+                "isFavorite": false,
                 "unicode":"U+1F1F3 U+1F1E6"
             },
             {
@@ -1618,6 +1778,7 @@
                 "capital": "Noumea",
                 "continentName": "Oceania",
                 "emoji":"🇳🇨",
+                "isFavorite": false,
                 "unicode":"U+1F1F3 U+1F1E8"
             },
             {
@@ -1628,6 +1789,7 @@
                 "capital": "Niamey",
                 "continentName": "Africa",
                 "emoji":"🇳🇪",
+                "isFavorite": false,
                 "unicode":"U+1F1F3 U+1F1EA"
             },
             {
@@ -1638,6 +1800,7 @@
                 "capital": "Kingston",
                 "continentName": "Oceania",
                 "emoji":"🇳🇫",
+                "isFavorite": false,
                 "unicode":"U+1F1F3 U+1F1EB"
             },
             {
@@ -1648,6 +1811,7 @@
                 "capital": "Abuja",
                 "continentName": "Africa",
                 "emoji":"🇳🇬",
+                "isFavorite": false,
                 "unicode":"U+1F1F3 U+1F1EC"
             },
             {
@@ -1658,6 +1822,7 @@
                 "capital": "Managua",
                 "continentName": "North America",
                 "emoji":"🇳🇮",
+                "isFavorite": false,
                 "unicode":"U+1F1F3 U+1F1EE"
             },
             {
@@ -1668,6 +1833,7 @@
                 "capital": "Amsterdam",
                 "continentName": "Europe",
                 "emoji":"🇳🇱",
+                "isFavorite": false,
                 "unicode":"U+1F1F3 U+1F1F1"
             },
             {
@@ -1678,6 +1844,7 @@
                 "capital": "Oslo",
                 "continentName": "Europe",
                 "emoji":"🇳🇴",
+                "isFavorite": false,
                 "unicode":"U+1F1F3 U+1F1F4"
             },
             {
@@ -1688,6 +1855,7 @@
                 "capital": "Kathmandu",
                 "continentName": "Asia",
                 "emoji":"🇳🇵",
+                "isFavorite": false,
                 "unicode":"U+1F1F3 U+1F1F5"
             },
             {
@@ -1698,6 +1866,7 @@
                 "capital": "Yaren",
                 "continentName": "Oceania",
                 "emoji":"🇳🇷",
+                "isFavorite": false,
                 "unicode":"U+1F1F3 U+1F1F7"
             },
             {
@@ -1708,6 +1877,7 @@
                 "capital": "Alofi",
                 "continentName": "Oceania",
                 "emoji":"🇳🇺",
+                "isFavorite": false,
                 "unicode":"U+1F1F3 U+1F1FA"
             },
             {
@@ -1718,6 +1888,7 @@
                 "capital": "Wellington",
                 "continentName": "Oceania",
                 "emoji":"🇳🇿",
+                "isFavorite": false,
                 "unicode":"U+1F1F3 U+1F1FF"
             },
             {
@@ -1728,6 +1899,7 @@
                 "capital": "Muscat",
                 "continentName": "Asia",
                 "emoji":"🇴🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1F4 U+1F1F2"
             },
             {
@@ -1738,6 +1910,7 @@
                 "capital": "Panama City",
                 "continentName": "North America",
                 "emoji":"🇵🇦",
+                "isFavorite": false,
                 "unicode":"U+1F1F5 U+1F1E6"
             },
             {
@@ -1748,6 +1921,7 @@
                 "capital": "Lima",
                 "continentName": "South America",
                 "emoji":"🇵🇪",
+                "isFavorite": false,
                 "unicode":"U+1F1F5 U+1F1EA"
             },
             {
@@ -1758,6 +1932,7 @@
                 "capital": "Papeete",
                 "continentName": "Oceania",
                 "emoji":"🇵🇫",
+                "isFavorite": false,
                 "unicode":"U+1F1F5 U+1F1EB"
             },
             {
@@ -1768,6 +1943,7 @@
                 "capital": "Port Moresby",
                 "continentName": "Oceania",
                 "emoji":"🇵🇬",
+                "isFavorite": false,
                 "unicode":"U+1F1F5 U+1F1EC"
             },
             {
@@ -1778,6 +1954,7 @@
                 "capital": "Manila",
                 "continentName": "Asia",
                 "emoji":"🇵🇭",
+                "isFavorite": false,
                 "unicode":"U+1F1F5 U+1F1ED"
             },
             {
@@ -1788,6 +1965,7 @@
                 "capital": "Islamabad",
                 "continentName": "Asia",
                 "emoji":"🇵🇰",
+                "isFavorite": false,
                 "unicode":"U+1F1F5 U+1F1F0"
             },
             {
@@ -1798,6 +1976,7 @@
                 "capital": "Warsaw",
                 "continentName": "Europe",
                 "emoji":"🇵🇱",
+                "isFavorite": false,
                 "unicode":"U+1F1F5 U+1F1F1"
             },
             {
@@ -1808,6 +1987,7 @@
                 "capital": "Saint-Pierre",
                 "continentName": "North America",
                 "emoji":"🇵🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1F5 U+1F1F2"
             },
             {
@@ -1818,6 +1998,7 @@
                 "capital": "Adamstown",
                 "continentName": "Oceania",
                 "emoji":"🇵🇳",
+                "isFavorite": false,
                 "unicode":"U+1F1F5 U+1F1F3"
             },
             {
@@ -1828,6 +2009,7 @@
                 "capital": "San Juan",
                 "continentName": "North America",
                 "emoji":"🇵🇷",
+                "isFavorite": false,
                 "unicode":"U+1F1F5 U+1F1F7"
             },
             {
@@ -1838,6 +2020,7 @@
                 "capital": "",
                 "continentName": "Asia",
                 "emoji":"🇵🇸",
+                "isFavorite": false,
                 "unicode":"U+1F1F5 U+1F1F8"
             },
             {
@@ -1848,6 +2031,7 @@
                 "capital": "Lisbon",
                 "continentName": "Europe",
                 "emoji":"🇵🇹",
+                "isFavorite": false,
                 "unicode":"U+1F1F5 U+1F1F9"
             },
             {
@@ -1858,6 +2042,7 @@
                 "capital": "Melekeok",
                 "continentName": "Oceania",
                 "emoji":"🇵🇼",
+                "isFavorite": false,
                 "unicode":"U+1F1F5 U+1F1FC"
             },
             {
@@ -1868,6 +2053,7 @@
                 "capital": "Asunción",
                 "continentName": "South America",
                 "emoji":"🇵🇾",
+                "isFavorite": false,
                 "unicode":"U+1F1F5 U+1F1FE"
             },
             {
@@ -1878,6 +2064,7 @@
                 "capital": "Doha",
                 "continentName": "Asia",
                 "emoji":"🇶🇦",
+                "isFavorite": false,
                 "unicode":"U+1F1F6 U+1F1E6"
             },
             {
@@ -1888,6 +2075,7 @@
                 "capital": "Saint-Denis",
                 "continentName": "Africa",
                 "emoji":"🇷🇪",
+                "isFavorite": false,
                 "unicode":"U+1F1F7 U+1F1EA"
             },
             {
@@ -1898,6 +2086,7 @@
                 "capital": "Bucharest",
                 "continentName": "Europe",
                 "emoji":"🇷🇴",
+                "isFavorite": false,
                 "unicode":"U+1F1F7 U+1F1F4"
             },
             {
@@ -1908,6 +2097,7 @@
                 "capital": "Belgrade",
                 "continentName": "Europe",
                 "emoji":"🇷🇸",
+                "isFavorite": false,
                 "unicode":"U+1F1F7 U+1F1F8"
             },
             {
@@ -1918,6 +2108,7 @@
                 "capital": "Moscow",
                 "continentName": "Europe",
                 "emoji":"🇷🇺",
+                "isFavorite": false,
                 "unicode":"U+1F1F7 U+1F1FA"
             },
             {
@@ -1928,6 +2119,7 @@
                 "capital": "Kigali",
                 "continentName": "Africa",
                 "emoji":"🇷🇼",
+                "isFavorite": false,
                 "unicode":"U+1F1F7 U+1F1FC"
             },
             {
@@ -1938,6 +2130,7 @@
                 "capital": "Riyadh",
                 "continentName": "Asia",
                 "emoji":"🇸🇦",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1E6"
             },
             {
@@ -1948,6 +2141,7 @@
                 "capital": "Honiara",
                 "continentName": "Oceania",
                 "emoji":"🇸🇧",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1E7"
             },
             {
@@ -1958,6 +2152,7 @@
                 "capital": "Victoria",
                 "continentName": "Africa",
                 "emoji":"🇸🇨",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1E8"
             },
             {
@@ -1968,6 +2163,7 @@
                 "capital": "Khartoum",
                 "continentName": "Africa",
                 "emoji":"🇸🇩",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1E9"
             },
             {
@@ -1978,6 +2174,7 @@
                 "capital": "Stockholm",
                 "continentName": "Europe",
                 "emoji":"🇸🇪",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1EA"
             },
             {
@@ -1988,6 +2185,7 @@
                 "capital": "Singapore",
                 "continentName": "Asia",
                 "emoji":"🇸🇬",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1EC"
             },
             {
@@ -1998,6 +2196,7 @@
                 "capital": "Jamestown",
                 "continentName": "Africa",
                 "emoji":"🇸🇭",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1ED"
             },
             {
@@ -2008,6 +2207,7 @@
                 "capital": "Ljubljana",
                 "continentName": "Europe",
                 "emoji":"🇸🇮",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1EE"
             },
             {
@@ -2018,6 +2218,7 @@
                 "capital": "Longyearbyen",
                 "continentName": "Europe",
                 "emoji":"🇸🇯",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1EF"
             },
             {
@@ -2028,6 +2229,7 @@
                 "capital": "Bratislava",
                 "continentName": "Europe",
                 "emoji":"🇸🇰",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1F0"
             },
             {
@@ -2038,6 +2240,7 @@
                 "capital": "Freetown",
                 "continentName": "Africa",
                 "emoji":"🇸🇱",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1F1"
             },
             {
@@ -2048,6 +2251,7 @@
                 "capital": "San Marino",
                 "continentName": "Europe",
                 "emoji":"🇸🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1F2"
             },
             {
@@ -2058,6 +2262,7 @@
                 "capital": "Dakar",
                 "continentName": "Africa",
                 "emoji":"🇸🇳",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1F3"
             },
             {
@@ -2068,6 +2273,7 @@
                 "capital": "Mogadishu",
                 "continentName": "Africa",
                 "emoji":"🇸🇴",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1F4"
             },
             {
@@ -2078,6 +2284,7 @@
                 "capital": "Paramaribo",
                 "continentName": "South America",
                 "emoji":"🇸🇷",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1F7"
                         
             },
@@ -2089,6 +2296,7 @@
                 "capital": "Juba",
                 "continentName": "Africa",
                 "emoji":"🇸🇸",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1F8"
                         
             },
@@ -2100,6 +2308,7 @@
                 "capital": "São Tomé",
                 "continentName": "Africa",
                 "emoji":"🇸🇹",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1F9"
                         
             },
@@ -2111,6 +2320,7 @@
                 "capital": "San Salvador",
                 "continentName": "North America",
                 "emoji":"🇸🇻",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1FB"
                         
             },
@@ -2122,6 +2332,7 @@
                 "capital": "Philipsburg",
                 "continentName": "North America",
                 "emoji":"🇸🇽",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1FD"
                         
             },
@@ -2133,6 +2344,7 @@
                 "capital": "Damascus",
                 "continentName": "Asia",
                 "emoji":"🇸🇾",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1FE"
                         
             },
@@ -2144,6 +2356,7 @@
                 "capital": "Mbabane",
                 "continentName": "Africa",
                 "emoji":"🇸🇿",
+                "isFavorite": false,
                 "unicode":"U+1F1F8 U+1F1FF"
                         
             },
@@ -2155,6 +2368,7 @@
                 "capital": "Cockburn Town",
                 "continentName": "North America",
                 "emoji":"🇹🇨",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1E8"
                         
             },
@@ -2166,6 +2380,7 @@
                 "capital": "N'Djamena",
                 "continentName": "Africa",
                 "emoji":"🇹🇩",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1E9"
                         
             },
@@ -2177,6 +2392,7 @@
                 "capital": "Port-aux-Français",
                 "continentName": "Antarctica",
                 "emoji":"🇹🇫",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1EB"
                         
             },
@@ -2188,6 +2404,7 @@
                 "capital": "Lomé",
                 "continentName": "Africa",
                 "emoji":"🇹🇬",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1EC"
                         
             },
@@ -2199,6 +2416,7 @@
                 "capital": "Bangkok",
                 "continentName": "Asia",
                 "emoji":"🇹🇭",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1ED"
                        
             },
@@ -2210,6 +2428,7 @@
                 "capital": "Dushanbe",
                 "continentName": "Asia",
                 "emoji":"🇹🇯",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1EF"
                         
             },
@@ -2221,6 +2440,7 @@
                 "capital": "",
                 "continentName": "Oceania",
                 "emoji":"🇹🇰",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1F0"
                         
             },
@@ -2232,6 +2452,7 @@
                 "capital": "Dili",
                 "continentName": "Oceania",
                 "emoji":"🇹🇱",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1F1"
                         
             },
@@ -2243,6 +2464,7 @@
                 "capital": "Ashgabat",
                 "continentName": "Asia",
                 "emoji":"🇹🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1F2"
                        
             },
@@ -2254,6 +2476,7 @@
                 "capital": "Tunis",
                 "continentName": "Africa",
                 "emoji":"🇹🇳",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1F3"
                         
             },
@@ -2265,6 +2488,7 @@
                 "capital": "Nuku'alofa",
                 "continentName": "Oceania",
                 "emoji":"🇹🇴",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1F4"
                         
             },
@@ -2276,6 +2500,7 @@
                 "capital": "Ankara",
                 "continentName": "Asia",
                 "emoji":"🇹🇷",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1F7"
                         
             },
@@ -2287,6 +2512,7 @@
                 "capital": "Port of Spain",
                 "continentName": "North America",
                 "emoji":"🇹🇹",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1F9"
                         
             },
@@ -2298,6 +2524,7 @@
                 "capital": "Funafuti",
                 "continentName": "Oceania",
                 "emoji":"🇹🇻",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1FB"
                         
             },
@@ -2309,6 +2536,7 @@
                 "capital": "Taipei",
                 "continentName": "Asia",
                 "emoji":"🇹🇼",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1FC"
                         
             },
@@ -2320,6 +2548,7 @@
                 "capital": "Dodoma",
                 "continentName": "Africa",
                 "emoji":"🇹🇿",
+                "isFavorite": false,
                 "unicode":"U+1F1F9 U+1F1FF"
             },
             {
@@ -2330,6 +2559,7 @@
                 "capital": "Kiev",
                 "continentName": "Europe",
                 "emoji":"🇺🇦",
+                "isFavorite": false,
                 "unicode":"U+1F1FA U+1F1E6"
             },
             {
@@ -2340,6 +2570,7 @@
                 "capital": "Kampala",
                 "continentName": "Africa",
                 "emoji":"🇺🇬",
+                "isFavorite": false,
                 "unicode":"U+1F1FA U+1F1EC"
             },
             {
@@ -2350,6 +2581,7 @@
                 "capital": "",
                 "continentName": "Oceania",
                 "emoji":"🇺🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1FA U+1F1F2"
             },
             {
@@ -2360,6 +2592,7 @@
                 "capital": "Washington",
                 "continentName": "North America",
                 "emoji":"🇺🇸",
+                "isFavorite": false,
                 "unicode":"U+1F1FA U+1F1F8"
             },
             {
@@ -2370,6 +2603,7 @@
                 "capital": "Montevideo",
                 "continentName": "South America",
                 "emoji":"🇺🇾",
+                "isFavorite": false,
                 "unicode":"U+1F1FA U+1F1FE"
             },
             {
@@ -2380,6 +2614,7 @@
                 "capital": "Tashkent",
                 "continentName": "Asia",
                 "emoji":"🇺🇿",
+                "isFavorite": false,
                 "unicode":"U+1F1FA U+1F1FF"
             },
             {
@@ -2390,6 +2625,7 @@
                 "capital": "Vatican City",
                 "continentName": "Europe",
                 "emoji":"🇻🇦",
+                "isFavorite": false,
                 "unicode":"U+1F1FB U+1F1E6"
             },
             {
@@ -2400,6 +2636,7 @@
                 "capital": "Kingstown",
                 "continentName": "North America",
                 "emoji":"🇻🇨",
+                "isFavorite": false,
                 "unicode":"U+1F1FB U+1F1E8"
             },
             {
@@ -2410,6 +2647,7 @@
                 "capital": "Caracas",
                 "continentName": "South America",
                 "emoji":"🇻🇪",
+                "isFavorite": false,
                 "unicode":"U+1F1FB U+1F1EA"
             },
             {
@@ -2420,6 +2658,7 @@
                 "capital": "Road Town",
                 "continentName": "North America",
                 "emoji":"🇻🇬",
+                "isFavorite": false,
                 "unicode":"U+1F1FB U+1F1EC"
             },
             {
@@ -2430,6 +2669,7 @@
                 "capital": "Charlotte Amalie",
                 "continentName": "North America",
                 "emoji":"🇻🇮",
+                "isFavorite": false,
                 "unicode":"U+1F1FB U+1F1EE"
             },
             {
@@ -2440,6 +2680,7 @@
                 "capital": "Hanoi",
                 "continentName": "Asia",
                 "emoji":"🇻🇳",
+                "isFavorite": false,
                 "unicode":"U+1F1FB U+1F1F3"
             },
             {
@@ -2450,6 +2691,7 @@
                 "capital": "Port Vila",
                 "continentName": "Oceania",
                 "emoji":"🇻🇺",
+                "isFavorite": false,
                 "unicode":"U+1F1FB U+1F1FA"
             },
             {
@@ -2460,6 +2702,7 @@
                 "capital": "Mata-Utu",
                 "continentName": "Oceania",
                 "emoji":"🇼🇫",
+                "isFavorite": false,
                 "unicode":"U+1F1FC U+1F1EB"
             },
             {
@@ -2470,6 +2713,7 @@
                 "capital": "Apia",
                 "continentName": "Oceania",
                 "emoji":"🇼🇸",
+                "isFavorite": false,
                 "unicode":"U+1F1FC U+1F1F8"
             },
             {
@@ -2480,6 +2724,7 @@
                 "capital": "Pristina",
                 "continentName": "Europe",
                 "emoji":"🇽🇰",
+                "isFavorite": false,
                 "unicode":"U+1F1FD U+1F1F0"
             },
             {
@@ -2490,6 +2735,7 @@
                 "capital": "Sanaa",
                 "continentName": "Asia",
                 "emoji":"🇾🇪",
+                "isFavorite": false,
                 "unicode":"U+1F1FE U+1F1EA"
             },
             {
@@ -2500,6 +2746,7 @@
                 "capital": "Mamoudzou",
                 "continentName": "Africa",
                 "emoji":"🇾🇹",
+                "isFavorite": false,
                 "unicode":"U+1F1FE U+1F1F9"
             },
             {
@@ -2510,6 +2757,7 @@
                 "capital": "Pretoria",
                 "continentName": "Africa",
                 "emoji":"🇿🇦",
+                "isFavorite": false,
                 "unicode":"U+1F1FF U+1F1E6"
             },
             {
@@ -2520,6 +2768,7 @@
                 "capital": "Lusaka",
                 "continentName": "Africa",
                 "emoji":"🇿🇲",
+                "isFavorite": false,
                 "unicode":"U+1F1FF U+1F1F2"
             },
             {
@@ -2530,6 +2779,7 @@
                 "capital": "Harare",
                 "continentName": "Africa",
                 "emoji":"🇿🇼",
+                "isFavorite": false,
                 "unicode":"U+1F1FF U+1F1FC"
             }
 ]
